@@ -1,7 +1,7 @@
 {
-  "name": "ExamplePlugin",
-  "author": "Anuke",
-  "main": "example.ExamplePlugin",
-  "description": "A plugin to demonstrate some basic features.",
+  "name": "AntiSchemeSizePlugin",
+  "author": "OSPx",
+  "main": "com.ospx.antischemesize.Main",
+  "description": "Prevents players who use the Scheme Size mod from joining",
   "version": 1.0
 }
